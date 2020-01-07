@@ -1,4 +1,9 @@
 #!/bin/sh
 
 MY_MESSAGE="Hello World"
+MY_SHORT_MESSAGE=hi
 echo $MY_MESSAGE
+MY_PI=3.142
+MY_OTHER_PI="3.142"
+MY_MIXED=123abc
+echo $MY_PI" "$MY_MIXED
