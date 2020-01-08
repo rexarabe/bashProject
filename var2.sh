@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo What is you name?
+echo "What is you name?"
 read MY_NAME
-echo "Hello $MY_NAME - hope you're well."
+echo "Hello $MY_NAME - Have a nice day"
